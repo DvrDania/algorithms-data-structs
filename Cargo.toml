@@ -1,5 +1,5 @@
 [package]
-name = "sorting_algorithms"
+name = "algorithms_data_structs"
 version = "0.1.0"
 edition = "2018"
 
