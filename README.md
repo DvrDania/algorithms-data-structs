@@ -1,2 +1,2 @@
-# sorting_algorithms
-Sorting algorithms implemented in Rust
+# algorithms_data_structs
+algorithms and data structures implemented in Rust
