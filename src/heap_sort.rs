@@ -2,9 +2,9 @@ pub fn sort(arr: &mut Vec<i32>) {
     build_heap(arr);
     for i in (1..arr.len()).rev() {
         arr.swap(0, i);
+        println!("{:?}", arr);
         heapify(arr, 0, i);
     }
-    println!("{:?}", arr);
 }
 
 fn build_heap(arr: &mut Vec<i32>) {
