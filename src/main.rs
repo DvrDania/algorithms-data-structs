@@ -11,7 +11,7 @@ fn main() {
     println!("================");
 
     println!("========Heap sort========");
-    let mut heap_sort_array = vec![15, 9, 8, 1, 4, 11, 7, 17, 12, 13, 6, 5, 3, 16, 2, 10, 14];
+    let mut heap_sort_array = vec![15, 9, 8, 1, 4, 11, 7, 12, 13, 6, 5, 3, 16, 2, 10, 14];
     println!("Initial array:");
     println!("{:?}", heap_sort_array);
     println!("Sorting process:");
