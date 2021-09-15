@@ -1,2 +1,2 @@
-# algorithms_data_structs
+# algorithms-data-structs
 algorithms and data structures implemented in Rust
