@@ -1,5 +1,5 @@
 [package]
-name = "algorithms_data_structs"
+name = "algorithms-data-structs"
 version = "0.1.0"
 edition = "2018"
 
